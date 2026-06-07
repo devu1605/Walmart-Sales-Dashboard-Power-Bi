@@ -151,31 +151,11 @@ Walmart-Sales-Dashboard/
 
 ---
 
-## 📥 How to Use
-
-1. Clone this repository
-
-```bash
-git clone https://github.com/yourusername/Walmart-Sales-Dashboard.git
-```
-
-2. Open the `.pbix` file using Power BI Desktop.
-
-3. Refresh the dataset if necessary.
-
-4. Explore the dashboard using interactive slicers and filters.
-
----
-
 ## 👨‍💻 Author
 
 **Devendra Tak**
 
-Engineering Student | Data Analytics Enthusiast | Power BI Learner
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
+Engineering Student | Data Analytics Enthusiast | Power BI Learn
 
 ---
 
